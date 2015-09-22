@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = HowOldAu::VERSION
   spec.authors       = ["devkook"]
   spec.email         = ["devinkook@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Age of the Universe.}
+  spec.description   = %q{Install If you want to know the age of the universe}
   spec.homepage      = ""
   spec.license       = "MIT"
 
