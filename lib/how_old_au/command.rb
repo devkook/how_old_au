@@ -10,6 +10,7 @@ module HowOldAu
    
    def execute
      options = Options.parse!(@argv)
+     puts 39
    end
  end
 end
