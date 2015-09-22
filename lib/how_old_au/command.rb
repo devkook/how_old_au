@@ -7,5 +7,9 @@ module HowOldAu
    def initialize(argv)
      @argv = argv
    end
+   
+   def execute
+     options = Options.parse!(@argv)
+   end
  end
 end
