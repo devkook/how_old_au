@@ -1,6 +1,6 @@
 # HowOldAu
 
-TODO: Write a gem description
+Is the Universe How old are you?
 
 ## Installation
 
@@ -20,11 +20,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+HowOldAu
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/how_old_au/fork )
+1. Fork it ( https://github.com/devkook/how_old_au.git )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
