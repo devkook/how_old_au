@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
 require 'how_old_au'
+
+HowOldAu::Command.run(ARGV)
