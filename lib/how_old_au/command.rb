@@ -10,7 +10,7 @@ module HowOldAu
    
    def execute
      options = Options.parse!(@argv)
-     puts 39
+     puts 2015 - 1977 + 1 
    end
  end
 end
